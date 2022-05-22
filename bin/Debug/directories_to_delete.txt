@@ -1,0 +1,9 @@
+%Roaming%\Wargaming.net\WorldOfTanks\account_caches
+%Roaming%\Wargaming.net\WorldOfTanks\battle_results
+%Roaming%\Wargaming.net\WorldOfTanks\clan_cache
+%Roaming%\Wargaming.net\WorldOfTanks\custom_data
+%Roaming%\Wargaming.net\WorldOfTanks\dossier_cache
+%Roaming%\Wargaming.net\WorldOfTanks\messenger_cache
+%Roaming%\Wargaming.net\WorldOfTanks\profile
+%Roaming%\Wargaming.net\WorldOfTanks\veh_cmp_cache
+%Roaming%\Wargaming.net\WorldOfTanks\web_cache

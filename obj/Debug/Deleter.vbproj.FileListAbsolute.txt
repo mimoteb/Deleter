@@ -1,0 +1,11 @@
+D:\Projects\Programming\Tools\Deleter\bin\Debug\Deleter.exe.config
+D:\Projects\Programming\Tools\Deleter\bin\Debug\Deleter.exe
+D:\Projects\Programming\Tools\Deleter\bin\Debug\Deleter.pdb
+D:\Projects\Programming\Tools\Deleter\bin\Debug\Deleter.xml
+D:\Projects\Programming\Tools\Deleter\obj\Debug\Deleter.vbproj.AssemblyReference.cache
+D:\Projects\Programming\Tools\Deleter\obj\Debug\Deleter.Resources.resources
+D:\Projects\Programming\Tools\Deleter\obj\Debug\Deleter.vbproj.GenerateResource.cache
+D:\Projects\Programming\Tools\Deleter\obj\Debug\Deleter.vbproj.CoreCompileInputs.cache
+D:\Projects\Programming\Tools\Deleter\obj\Debug\Deleter.exe
+D:\Projects\Programming\Tools\Deleter\obj\Debug\Deleter.xml
+D:\Projects\Programming\Tools\Deleter\obj\Debug\Deleter.pdb
